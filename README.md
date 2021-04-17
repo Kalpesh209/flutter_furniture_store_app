@@ -19,13 +19,17 @@ On our Furniture app, #UI has three pages one for the
 3. ProductDetailsScreen is for the product page.
 
 
+𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ?
+
+
+
+
 ► Social Media
 - Twitter: https://twitter.com/khandla20
 - LinkdIn :https://www.linkedin.com/in/kalpesh-khandla-11693541/ 
  
 
-Please feel free to ask any help related to Flutter or anything related to this repository. Your suggestions for the future video would motivate us to create more videos as per your need.
-
+Please feel free to ask any help related to Flutter or anything related to this repository
 
 ►Design Credit: https://dribbble.com/shots/10066740-Furniture-e-commerce-ios-mobile-app-screens
 
