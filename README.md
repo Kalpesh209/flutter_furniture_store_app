@@ -3,21 +3,23 @@
 ## Getting Started
 
 
+
+
+
 On our Furniture app, #UI has three pages one for the we have three screens as below
 
 1. HomePageScreen which has tabs for different categories then a list of our products in each category. 
 2. The ArmChairsScreen is for a particular category page
 3. ProductDetailsScreen is for the product page.
 
+
+
+
 flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
 
 - [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
 - [Drop me your message](https://twitter.com/khandla20)
-
-
-![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998882-f095ee80-a595-11eb-8914-677c91cd9df4.gif)
-
 
 
 = = = To Generate Android release steps = = =
