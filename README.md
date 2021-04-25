@@ -1,3 +1,4 @@
+![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998879-eaa00d80-a595-11eb-9e6f-41a38fa9b94c.gif)
 # flutter_furniture_store_app_ui
 
 ## Getting Started
@@ -19,7 +20,8 @@ flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
 - [Drop me your message](https://twitter.com/khandla20)
 
 
-https://user-images.githubusercontent.com/48312656/115976959-79257800-a51f-11eb-9769-015ff24b58fa.mp4
+![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998882-f095ee80-a595-11eb-8914-677c91cd9df4.gif)
+
 
 
 = = = To Generate Android release steps = = =
