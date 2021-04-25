@@ -1,4 +1,3 @@
-![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998879-eaa00d80-a595-11eb-9e6f-41a38fa9b94c.gif)
 # flutter_furniture_store_app_ui
 
 ## Getting Started
@@ -6,12 +5,12 @@
 
 On our Furniture app, #UI has three pages one for the 
 
+![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998879-eaa00d80-a595-11eb-9e6f-41a38fa9b94c.gif)
+
 
 1. HomePageScreen which has tabs for different categories then a list of our products in each category. 
 2. The ArmChairsScreen is for a particular category page
 3. ProductDetailsScreen is for the product page.
-
-
 
 flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
 
