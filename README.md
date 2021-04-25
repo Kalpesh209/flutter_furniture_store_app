@@ -3,9 +3,6 @@
 ## Getting Started
 
 
-
-
-
 On our Furniture app, #UI has three pages one for the we have three screens as below
 
 1. HomePageScreen which has tabs for different categories then a list of our products in each category. 
@@ -13,6 +10,7 @@ On our Furniture app, #UI has three pages one for the we have three screens as b
 3. ProductDetailsScreen is for the product page.
 
 
+https://user-images.githubusercontent.com/48312656/116002421-29d65a80-a5a6-11eb-9c86-e04fa1602199.mp4
 
 
 flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
