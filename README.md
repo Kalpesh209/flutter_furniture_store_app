@@ -1,16 +1,5 @@
 # flutter_furniture_store_app_ui
 
-A new Flutter project.
-
-## Getting Started
-
-This project has a "main.dart" as a starting point for a Flutter application.
-
-
-
-This app can be used for furniture stores as their e-commerce app. 
-The design of this app is so elegant and neat clean and gives the best user experience to the user. We have also added #Flutter #Animation in this design which improvises the overall experience. Go through the code of this #FurnitureApp and I am sure it will help you to learn a lot.
-
 On our Furniture app, #UI has three pages one for the 
 
 
@@ -19,18 +8,58 @@ On our Furniture app, #UI has three pages one for the
 3. ProductDetailsScreen is for the product page.
 
 
-𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ?
+flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
+
+- [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
+- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
+- [Drop me your message](https://twitter.com/khandla20)
+
+![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115993324-be2cc700-a57e-11eb-9be8-1e6f12b47934.gif)
 
 
+= = = To Generate Android release steps = = =
+
+Generate FAT APK 
+- flutter clean 
+- flutter build apk --release
+
+Generate split APK's 
+- flutter clean 
+- flutter build apk --split-per-abi --release
+
+= = = iOS release steps = = =
+
+Set iOS deployment target
+
+Follow below steps
+
+- setup flutter sdk
+- get packages
+- open runner.xcworkspace from ids folder
+- update version code in yaml
 
 
-► Social Media
-- Twitter: https://twitter.com/khandla20
-- LinkdIn :https://www.linkedin.com/in/kalpesh-khandla-11693541/ 
- 
+Bellow commands will generate the runner.app file
 
-Please feel free to ask any help related to Flutter or anything related to this repository
-
-►Design Credit: https://dribbble.com/shots/10066740-Furniture-e-commerce-ios-mobile-app-screens
+- flutter clean
+- flutter build ios --release
 
 
+Now open the xcode run/build to check if project has error
+
+Select Product -> Archive
+Follow the uploading steps
+
+
+𝐒𝐭𝐢𝐥𝐥 𝐍𝐞𝐞𝐝 𝐚 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐟𝐨𝐫 𝐅𝐥𝐮𝐭𝐭𝐞𝐫 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐦𝐞𝐧𝐭 ??
+
+- [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
+- [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
+- [Drop me your message](https://twitter.com/khandla20)
+
+
+𝐄𝐦𝐚𝐢𝐥 : 𝐤𝐡𝐚𝐧𝐝𝐥𝐚𝐤𝐚𝐥𝐩𝐞𝐬𝐡𝟐𝟎@𝐠𝐦𝐚𝐢𝐥.𝐜𝐨𝐦
+𝐋𝐞𝐭 𝐦𝐞 𝐤𝐧𝐨𝐰 𝐢𝐟 𝐢 𝐜𝐚𝐧 𝐚𝐬𝐬𝐢𝐬𝐭 𝐲𝐨𝐮 𝐰𝐢𝐭𝐡 𝐟𝐥𝐮𝐭𝐭𝐞𝐫 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭.
+
+𝐊𝐢𝐧𝐝 𝐑𝐞𝐠𝐚𝐫𝐝𝐬, 
+𝐊𝐚𝐥𝐩𝐞𝐬𝐡 𝐊𝐡𝐚𝐧𝐝𝐥𝐚
