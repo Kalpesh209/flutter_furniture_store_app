@@ -1,5 +1,8 @@
 # flutter_furniture_store_app_ui
 
+## Getting Started
+
+
 On our Furniture app, #UI has three pages one for the 
 
 
@@ -8,13 +11,15 @@ On our Furniture app, #UI has three pages one for the
 3. ProductDetailsScreen is for the product page.
 
 
+
 flutter_furniture_store_app_ui project has "main.dart" as Entry Point.
 
 - [Hire Me](https://www.fiverr.com/kalpeshkhandla?up_rollout=true)
 - [Drop me your message](https://www.linkedin.com/in/kalpesh-khandla-11693541/)
 - [Drop me your message](https://twitter.com/khandla20)
 
-![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115993324-be2cc700-a57e-11eb-9be8-1e6f12b47934.gif)
+
+https://user-images.githubusercontent.com/48312656/115976959-79257800-a51f-11eb-9769-015ff24b58fa.mp4
 
 
 = = = To Generate Android release steps = = =
