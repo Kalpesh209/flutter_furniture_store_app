@@ -3,10 +3,7 @@
 ## Getting Started
 
 
-On our Furniture app, #UI has three pages one for the 
-
-![flutter_furniture_store_app](https://user-images.githubusercontent.com/48312656/115998879-eaa00d80-a595-11eb-9e6f-41a38fa9b94c.gif)
-
+On our Furniture app, #UI has three pages one for the we have three screens as below
 
 1. HomePageScreen which has tabs for different categories then a list of our products in each category. 
 2. The ArmChairsScreen is for a particular category page
